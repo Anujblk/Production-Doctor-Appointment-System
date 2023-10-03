@@ -1,5 +1,5 @@
 {
-  "name": "Doc-Appoinment-system",
+  "name": "Doc-Appointment-system",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run start\" \"npm run client\""
   },
   "keywords": [],
-  "author": "techinfyt ",
+  "author": "anuj",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
